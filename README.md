@@ -21,3 +21,7 @@ To Uninstall it simply run
 ````
 ./uninstaller.sh
 ````
+
+DEFAULT USERNAME :admin
+DEFAULT PASSWORD :password
+
