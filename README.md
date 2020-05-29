@@ -6,8 +6,18 @@ Make sure to have Internet connection while installing DVWA
 
 Here is the step :
 ````
-cd auto_install_dvwa
-cd DVWAsetup
-./installer.sh
+#Go to Path :
+cd auto_install_dvwa/DVWAsetup
+#Change mode of file if necessary with:
+chmod 777 * #(optional)
+#Run installer using 
+./installer.sh 
+````
+BOOM ! ..
 
+AND ,
+
+To Uninstall it simply run
+````
+./uninstaller.sh
 ````
