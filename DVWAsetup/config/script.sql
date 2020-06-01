@@ -1,4 +1,3 @@
-drop database dvwa;
 create database dvwa;
-grant all on dvwa.* to dvwa@localhost;
+grant all on dvwa.* to dvwa@localhost identified by 'password';
 flush privileges;
